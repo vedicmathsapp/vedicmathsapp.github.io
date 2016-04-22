@@ -1,0 +1,50 @@
+/* Badge specific styles */
+
+.badge-outer-div {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.badge-outer {
+  width: 100%;
+  float: left;
+  text-align: center; 
+}
+
+.badge-header {
+  margin-top: 60px;
+  margin-bottom: 50px;
+  font-weight: 300;
+}
+
+.badge-div {
+  margin-top: 50px;
+  height: 290px;
+}
+
+.badge-image {
+  width: 200px;
+}
+
+.badge-text-div {
+  height:290px;
+  vertical-align: middle
+}
+
+.badge-text {
+  font-size: 21px;
+  float: left;
+  text-align: left;
+  margin-top: 50px;
+  font-weight: 100;
+}
+
+.badge-sub-text {
+  font-size: 17px;
+  float: left;
+  text-align: left;
+  margin-top: 50px;
+  font-weight: 100;
+  text-transform: none;
+}
